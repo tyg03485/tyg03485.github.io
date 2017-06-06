@@ -1,8 +1,13 @@
 # Jobs
-- company: KIISE (한국정보과학회)
-  position: Scoring Team
-  duration:  July, 2016 &mdash; Present
-  summary: Setting problems for serveral programming contests with <a href="https://cms-dev.github.io/">CMS</a> <br/> - International Olympiad in Informatics (IOI) Training Camp in Korea <br/> - Korea Olympiad in Informatics (KOI)
+- company: Best of the Best
+  position: Mentee
+  duration: Jul, 2015 &mdash; Dec, 2015
+  summary: Learned How to use Hacking Tool and How to find weakness of programs
+
+- company: Rainist
+  position: Server Programmer
+  duration: Jan, 2017 &mdash; Mar, 2017
+  summary: Building models with Financial Database and Managing Content Management System(CMS) with Django
 
 - company: Samsung SDS / Electronics
   position: Teaching Assistant
