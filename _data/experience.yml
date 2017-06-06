@@ -1,19 +1,15 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+- company: Lab6k.
+  position: Software Intern
+  duration: Jun, 2015 &mdash; Feb, 2016
+  summary: Developing android application for <a href="https://play.google.com/store/apps/details?id=com.lab6k.app.qbrick&hl=ko">김투표</a>, <a href="https://play.google.com/store/apps/details?id=com.lab6k.app.ssum&hl=ko">콩톡</a>
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: KIISE (한국정보과학회)
+  position: Scoring Team
+  duration:  July, 2016 &mdash; Present
+  summary: Setting problems for serveral programming contests with <a href="https://cms-dev.github.io/">CMS</a> <br/> - International Olympiad in Informatics (IOI) Training Camp in Korea <br/> - Korea Olympiad in Informatics (KOI)
 
-
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: Samsung SDS / Electronics
+  position: Teaching Assistant
+  duration:  Jun, 2016 &mdash; Present
+  summary: Role of teaching assistant for solving algorithm problems
