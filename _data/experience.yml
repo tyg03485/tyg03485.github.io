@@ -10,6 +10,11 @@
   summary: Building models with Financial Database and Managing Content Management System(CMS) with Django
 
 - company: Samsung SDS / Electronics
-  position: Teaching Assistant
+  position: Teacher
   duration:  Jun, 2016 &mdash; Present
-  summary: Role of teaching assistant for solving algorithm problems
+  summary: Role of teaching for solving algorithm problems
+
+- company: KIISE (한국정보과학회)
+  position: Teaching Team
+  duration:  July, 2015 &mdash; Present
+  summary: Teaching algorithms At International Olympiad in Informatics (IOI) Training Camp in Korea
