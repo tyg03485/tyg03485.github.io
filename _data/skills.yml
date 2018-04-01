@@ -3,10 +3,10 @@
   description: Beginning from high school until now. Graduates of IOI Seasonal school. <br/> Online Judge Profile &#58; <a href="http://koistudy.net/?mid=view_prob&id=gs12037">koistudy</a>, <a href="https://www.acmicpc.net/user/tyg03485">Beakjoon Judge</a> <br/> ACM-ICPC &#58; <a href="https://github.com/tyg03485/PS">Teamnote</a>
 
 - skill: Web
-  description: Backend &#58; Django (2017. 1 ~ )
+  description: Backend &#58; Django (2017. 1 ~ 2017.3) Node JS (2017.11 ~ present)
 
 - skill: Etc
-  description: language &#58; C, C++, JAVA, Python, JavaScript, Html... <br/> DBMS &#58; oracle, postgres, mongoengine
+  description: language &#58; C, C++, JAVA, Python, JavaScript (ES6), Scala <br/> DBMS &#58; MySQL, PostgreSQL, MongoSQL
 
 - skill: Soccer
   description: Center Forward <div><img src="images/soccer.png" class="resume-item-image" itemprop="image"></div>

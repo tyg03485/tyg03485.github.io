@@ -1,5 +1,10 @@
 # Projects
 # donutfinder.io
+- project: 전이학습을 통한 의료데이터 활용의 극대화 (의료 빅데이터 공모전)
+  role: 
+  duration: Nov, 2017 &mdash; Jan, 2018
+  description: 기존 TLDA, ADDA 모델을 커스텀한 후, 전이학습 이용하여 지도 (비지도) 학습의 효과를 높임. </br> <a href="https://tyg03485.github.io/images/transfer_learning.png">포스터 링크</a>
+
 - project: Content Management System of Financial Database
   role: 
   duration: Jan, 2017 &mdash; Mar, 2017
