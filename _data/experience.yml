@@ -2,27 +2,27 @@
 - company: Samsung SDS / Electronics
   position: Teacher
   duration:  Jun, 2016 &mdash; 2017
-  summary: Role of teaching for solving algorithm problems
+  summary: Teaching algorithms for SW Adv, Pro, Exp 
 
 - company: KIISE (한국정보과학회)
   position: Teaching Team
   duration:  July, 2015 &mdash; 2017
-  summary: Teaching algorithms At International Olympiad in Informatics (IOI) Training Camp in Korea
+  summary: Teaching algorithms At IOI(International Olympiad in Informatics) Training Camp in Korea
 
 - company: Rainist
   position: Server Programmer
   duration: Jan, 2017 &mdash; Mar, 2017
-  summary: Building models with Financial Database and Managing Content Management System(CMS) with Django
+  summary: Building models with Financial Database and Managing CMS(Content Management System) with Django
 
 - company: FrienTrip (frip)
   position: Android Programmer
   duration: Aug, 2017 &mdash; Oct, 2017
-  summary: Advancing the application with recommending system using CF(Collaborative Filtering) algorithm.
+  summary: Advancing the application with recommending system using CF(Collaborative Filtering) algorithm
 
 - company: Playauto
   position: Programmer
   duration: Aug, 2017 &mdash; Present
-  summary: Scrapping the Contents on Websites and Matching the Info that we have. 
+  summary: Scrapping the Contents on Websites and Matching the Info that we have
 
 - company: Best of the Best
   position: Mentee
