@@ -9,7 +9,7 @@
   duration:  July, 2015 &mdash; 2017
   summary: Teaching algorithms At IOI(International Olympiad in Informatics) Training Camp in Korea
 
-- company: PUBG-Labs
-  position: Data Tech
+- company: PUBG
+  position: Data Engineering
   duration: July, 2018 &mdash; Present
-  summary: Designing Big Data Infrastructure
+  summary: Designing Big Data Infrastructure and Processing ETL with spark and hadoop
