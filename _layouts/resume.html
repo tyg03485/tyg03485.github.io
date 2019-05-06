@@ -11,14 +11,14 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="/images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+        <img src="/images/avatar.jpg" alt="my photo" class="avatar" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
         <h1 class="header-name" itemprop="name">{{ site.resume_name }}</h1>
 
         <!-- Contact buttons don't work in print, configure in the _config.yml file, remove "print-only" to display always. -->
-        <div class="header-contact-info print-only" itemprop="contact-info">
+        <div class="header-contact-info" itemprop="contact-info">
           <p>{{ site.resume_header_contact_info }}</p>
         </div>
 
@@ -49,7 +49,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Experience</h2>
+          <h2>Work Experience</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -109,7 +109,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Skills</h2>
+          <h2>Languages/Programming Skills</h2>
         </header>
         {% for skill in site.data.skills %}
         <div class="resume-item">

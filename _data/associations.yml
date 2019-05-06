@@ -1,10 +1,10 @@
 # Associations
 - organization: KIISE (한국정보과학회)
-  role: IOI Mentor
+  role: IOI Mentor, Assistant Team
   year: 2015 &mdash; 2017
-  summary: Teaching Algorithms in IOI (International Olympiad in Informatics) Training Camp in Korea 
+  summary: Teaching Algorithms in IOI (International Olympiad in Informatics) Training Camp
 
 - organization: Samsung SDS / Electronics
-  role: Samsung Curriculum Manager
-  year: 2016 &mdash; 2017
-  summary: Building Curriculum of Algorithms and Testing it.
+  role: Samsung Algorithm Curriculum Manager, Lecturer
+  year: 2016 &mdash; Present
+  summary: Architecting Curriculum of Algorithms for Samsung Software Adv, Pro, Exp License

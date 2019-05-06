@@ -1,15 +1,20 @@
 # Jobs
-- company: Samsung SDS / Electronics
-  position: Teacher
-  duration:  Jun, 2016 &mdash; 2017
-  summary: Teaching algorithms for Samsung SW Adv, Pro, Exp 
+- company: PUBG Corporation
+  position: Data Engineer
+  duration: June, 2018 &mdash; Present
+  summary: <dummy> - Designed Pipeline and Infrastructure of Big Data <br/> - Maintainer of Big Data Analytics Platform (Spark, Hadoop)
 
-- company: KIISE (한국정보과학회)
-  position: Teaching Team
-  duration:  July, 2015 &mdash; 2017
-  summary: Teaching algorithms At IOI(International Olympiad in Informatics) Training Camp in Korea
+- company: Playauto
+  position: R&D and Dev
+  duration: Nov, 2017 &mdash; May, 2018
+  summary: <dummy> - R&D on Shopping Item Language Processing <br/> - Created Module of API
+  
+- company: Samsung SDS
+  position: Lecturer
+  duration: Mar, 2017 &mdash; June, 2017
+  summary: <dummy> - Teaching Problem Solving (Algorithm) to Samsung Employees <br/> - Designed a Course of Software Adv, Pro, Exp License
 
-- company: PUBG
-  position: Data Engineering
-  duration: July, 2018 &mdash; Present
-  summary: Designing Big Data Infrastructure and Processing ETL with spark and hadoop
+- company: Rainist
+  position: Server Engineer
+  duration: Jan, 2017 &mdash; Mar, 2017
+  summary: <dummy> - Developing Web Server of Managing Financial Content

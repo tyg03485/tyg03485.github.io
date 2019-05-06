@@ -1,12 +1,24 @@
 # Skills
-- skill: Program Solving
-  description: Beginning from high school until now. Graduates of IOI Seasonal school. <br/> Online Judge Profile &#58; <a href="http://koistudy.net/?mid=view_prob&id=gs12037">koistudy</a>, <a href="https://www.acmicpc.net/user/tyg03485">Beakjoon Judge</a> <br/> ACM-ICPC &#58; <a href="https://github.com/tyg03485/PS">Teamnote</a>
+- skill: Language
+  description: <dummy> - Korean (Native) <br/> - English
 
-- skill: Web
-  description: Backend &#58; Django (2017. 1 ~ 2017.3) Node JS (2017.11 ~ present)
+- skill: Programming Skills
+  description: <dummy> - C/C++/Java <br/> - Python, Scala, JavaScript <br/> - Spark, Hadoop, Airflow, Tensorflow, Pytorch
 
-- skill: Etc
-  description: language &#58; C, C++, JAVA, Python, JavaScript (ES6), Scala <br/> DBMS &#58; MySQL, PostgreSQL, MongoSQL
+# - skill: Big Data Processing
+#   description: Spark, Hadoop, etc.
 
-- skill: Soccer :)
-  description: Center Forward <div><img src="images/soccer.png" class="resume-item-image" itemprop="image"></div>
+# - skill: Program Solving
+#   description: Algoprithm. Graduates of IOI Seasonal school. <br/> Online Judge Profile &#58; <a href="https://www.acmicpc.net/user/tyg03485">Beakjoon Judge</a> <br/> ACM-ICPC &#58; <a href="https://github.com/tyg03485/PS">Teamnote</a>
+
+# - skill: Web
+#   description: Backend &#58; Django (2017. 1 ~ 2017.3) Node JS (2017.11 ~ 2018.5)
+
+# - skill: Machine Learning
+#   description: Deep Learning, Transfer Learning, Natural Language Processing, Pytorch
+
+# - skill: Etc
+#   description: language &#58; Python, Scala, JavaScript (ES6), C, C++, JAVA <br/> DBMS &#58; MySQL, PostgreSQL, MongoSQL <br/> Cloud Service &#58; AWS and GCP
+
+# - skill: Soccer :)
+#   description: Center Forward <div><img src="images/soccer.png" class="resume-item-image" itemprop="image"></div>

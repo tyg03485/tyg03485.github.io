@@ -1,6 +1,11 @@
 # Projects
 # donutfinder.io
-- project: 전이학습을 통한 의료데이터 활용의 극대화 (의료 빅데이터 공모전)
-  role: 
+- project: Maximize Medical Big Data Utilization using Transfer Learning
+  role: Customize ADDA Model
   duration: Nov, 2017 &mdash; Jan, 2018
-  description: 기존 TLDA, ADDA 모델을 커스텀한 후, 의료데이터 기반으로 전이학습하여 지도 (비지도) 학습의 효과를 높임. </br> <a href="https://tyg03485.github.io/images/transfer_learning.png">포스터 링크</a>
+  description: Increase effectiveness supervised and unsupervised learning by customizing <b>TLDA</b> and <b>ADDA</b> Model based on medical big data. <br/> - Pytorch <br/><a target="_blank" href="https://tyg03485.github.io/images/transfer_learning.png">Poster Link</a>
+
+- project: Classification Category of Item Selling On Online Shopping Site
+  role: R&D
+  duration: Dec, 2017 &mdash; Feb, 2018
+  description: Classify category of item selling with the similarity between the words
