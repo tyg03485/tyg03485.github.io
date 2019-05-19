@@ -3,7 +3,7 @@
   description: <dummy> - Korean (Native) <br/> - English
 
 - skill: Programming Skills
-  description: <dummy> - C/C++/Java <br/> - Python, Scala, JavaScript <br/> - Spark, Hadoop, Airflow, Tensorflow, Pytorch
+  description: <dummy> - C/C++/Java <br/> - Python, Scala, JavaScript <br/> - Spark, Hadoop, Airflow <br/> - Kubenetes, Terraform
 
 # - skill: Big Data Processing
 #   description: Spark, Hadoop, etc.

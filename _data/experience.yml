@@ -2,7 +2,7 @@
 - company: PUBG Corporation
   position: Data Engineer
   duration: June, 2018 &mdash; Present
-  summary: <dummy> - Designed Pipeline and Infrastructure of Big Data <br/> - Maintainer of Big Data Analytics Platform (Spark, Hadoop)
+  summary: <dummy> - Designed Pipeline and Infrastructure of Big Data (Kubernetes, Terraform) <br/> - Maintainer of Big Data Analytics Platform (Spark, Hadoop, Airflow)
 
 - company: Playauto
   position: R&D and Dev
