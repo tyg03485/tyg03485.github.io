@@ -2,7 +2,7 @@
 - company: Riiid
   position: DevOps
   duration: June, 2020 &mdash; Present
-  summary: <dummy> - Designed k8s clusters for all service (eks, hybrid-cluster, on-premise) <br/> - Designed Logging Pipeline and Data Analytics Platform (Logstash, ES, kafka, airflow, kubeflow, BigQuery, CDC) <br/> - Developed spinnaker (CD Platform) for giving devlopment freedom to internal teams (Rolling-update, Canary-update, trigger, hook) <br/> - Developed IaaC (Infrastructure as a Code) manner in the team <br/> - etc (keycloak, vault, monitoring system, ..)
+  summary: <dummy> - Designed k8s clusters for all service (eks, hybrid-cluster, on-premise, helm, operator-pattern) <br/> - Designed Logging Pipeline and Data Analytics Platform (Logstash, ES, kafka, airflow, kubeflow, BigQuery, CDC) <br/> - Developed spinnaker (CD Platform) for giving devlopment freedom to internal teams (Rolling-update, Canary-update, trigger, hook) <br/> - Developed IaaC (Infrastructure as a Code) manner in the team <br/> - etc (keycloak, vault, monitoring system, ..)
 
 - company: PUBG Corporation
   position: Data Engineer
